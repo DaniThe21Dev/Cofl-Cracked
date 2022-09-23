@@ -9,6 +9,5 @@
 
 - Once minecraft is launched press the right control (ctrl) key, and itll open up a GUI. Enjoy. 
 
-- Download : https://github.com/DaniThe21Dev/FarmHelper/releases/tag/FarmHelper
-
-- Direct Download : https://github.com/DaniThe21Dev/FarmHelper/releases/download/FarmHelper/FarmHelper-Bot-v1.0.3.jar
+- Download : https://github.com/DaniThe21Dev/Cofl-Cracked/releases/tag/COFL
+- Direct Download : https://github.com/DaniThe21Dev/Cofl-Cracked/releases/download/COFL/CoflMod-1.4.2-Alpha.jar
